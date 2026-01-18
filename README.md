@@ -124,3 +124,27 @@ Step 4: Create Jenkins Pipeline
     }
 }
 
+Step 5: Configure Jenkins Job
+
+Created a Pipeline job in Jenkins
+Selected Pipeline script
+Manually pasted the script.
+
+<img width="1589" height="761" alt="Screenshot 2026-01-18 182934" src="https://github.com/user-attachments/assets/a64f63e6-04f0-40eb-8a16-a6f4755ce26d" />
+<img width="1585" height="803" alt="Screenshot 2026-01-18 182959" src="https://github.com/user-attachments/assets/eee588be-357b-4162-abd9-8e9b02287fe8" />
+
+
+Step 6: Configure GitHub Webhook
+
+Payload URL: https://delicately-nonspillable-regenia.ngrok-free.dev/github-webhook/
+
+<img width="1599" height="764" alt="image" src="https://github.com/user-attachments/assets/ddf7dd79-46a1-4d1f-9bfb-0a70c20ce5ec" />
+<img width="1599" height="765" alt="image" src="https://github.com/user-attachments/assets/7ab7c20c-2269-4943-81e4-f9714b759f74" />
+
+
+
+
+
+
+
+
