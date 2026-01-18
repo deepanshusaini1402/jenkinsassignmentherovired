@@ -10,7 +10,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 git branch: 'main',
-                    url: 'https://github.com/S-neha-01/Flask_App.git'
+                    url: 'https://github.com/deepanshusaini1402/jenkinsassignmentherovired.git'
             }
         }
 
@@ -51,7 +51,7 @@ pipeline {
             emailext(
                 subject: "SUCCESS: Flask Jenkins Pipeline",
                 body: "Build succeeded: ${env.BUILD_URL}",
-                to: "snehamgupta0123@gmail.com"
+                to: "deepanshusaini1402@gmail.com"
             )
         }
         failure {
@@ -59,7 +59,7 @@ pipeline {
             emailext(
                 subject: "FAILED: Flask Jenkins Pipeline",
                 body: "Build failed: ${env.BUILD_URL}",
-                to: "snehamgupta0123@gmail.com"
+                to: "deepanshusaini1402@gmail.com"
             )
         }
     }
