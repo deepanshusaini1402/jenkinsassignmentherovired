@@ -141,6 +141,13 @@ Payload URL: https://delicately-nonspillable-regenia.ngrok-free.dev/github-webho
 <img width="1599" height="764" alt="image" src="https://github.com/user-attachments/assets/ddf7dd79-46a1-4d1f-9bfb-0a70c20ce5ec" />
 <img width="1599" height="765" alt="image" src="https://github.com/user-attachments/assets/7ab7c20c-2269-4943-81e4-f9714b759f74" />
 
+
+Step 7 : Installed docker and Jenkins on local host and used ngrok, installed python
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/add4c7de-bda5-46ef-98c6-daa9273f8430" />
+<img width="1161" height="618" alt="image" src="https://github.com/user-attachments/assets/c3d2f3f0-90bc-4248-ad4d-68f0457fd230" />
+
+
 Step 7: Pipeline Execution Flow
 
 Code pushed to GitHub
