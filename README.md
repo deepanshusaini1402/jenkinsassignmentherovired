@@ -143,6 +143,30 @@ Payload URL: https://delicately-nonspillable-regenia.ngrok-free.dev/github-webho
 
 Step 7: Pipeline Execution Flow
 
+Code pushed to GitHub
+GitHub webhook triggers Jenkins
+Jenkins checks out code
+Dependencies installed
+Unit tests executed
+Application deployed if tests pass
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/42921328-1ca8-4033-9e1a-a5abfcfc5db5" />
+
+<img width="1598" height="807" alt="image" src="https://github.com/user-attachments/assets/73639fc6-3da6-4879-b70d-74f54e6c14ad" />
+
+Final Outcome
+Jenkins CI/CD pipeline successfully implemented
+Automated testing enforced
+Application deployed automatically
+Webhook-based automation achieved
+Assignment requirements fulfilled
+Conclusion
+This assignment demonstrates the practical implementation of CI/CD using Jenkins for a Flask application, following DevOps best practices such as automation, testing, and continuous deployment.
+
+Author
+Deepanshu Saini
+
+
 
 
 
